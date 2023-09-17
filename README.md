@@ -5,3 +5,7 @@ Paper rings
 Daylight
 <br>
 Lover
+<br>
+Afterglow
+<br>
+The Archer
